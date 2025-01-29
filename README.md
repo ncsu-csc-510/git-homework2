@@ -9,10 +9,10 @@ This repository and its contents is our team's submission for Homework 2.
 ![GitHub last commit](https://img.shields.io/github/last-commit/ncsu-csc-510/git-homework2)
 ![GitHub issues](https://img.shields.io/github/issues/ncsu-csc-510/git-homework2)
 ![GitHub forks](https://img.shields.io/github/forks/ncsu-csc-510/git-homework2)
-<!-- [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/) -->
 
-### ![Project Screenshot](path/to/your/image.png)
+### Project Screenshot
+
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/ProjectSS.png" width="400"/>
 
 
 ### Code Example 
@@ -21,10 +21,8 @@ This repository and its contents is our team's submission for Homework 2.
 # Stage all changes for commit
 git add .
 
-
 # Commit the staged changes with a message
 git commit -m "Add changes"
-
 
 # Push to the remote repository
 git push origin YOUR_BRANCH
@@ -38,17 +36,22 @@ git push origin YOUR_BRANCH
 - [ ] Task 4: Merge latest changes
 - [ ] Task 5: Review pull requests
 
-# git-homework2
+### Git Tutorial Screenshots
 
-### Screenshots
+#### akulka24
 
 <img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot1.png" width="400"/>
 
 <img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot2.png" width="400"/>
-# git-homework2
 
-<img src="screenshots/Main_SS.png" alt="Git Tutorial Progress SS 1" />
+#### akakadi
 
-<img src="screenshots/Remote_SS.png" alt="Git Tutorial Progress SS 2"/>
-![Screenshot1](https://github.com/ncsu-csc-510/git-homework2/blob/e80f07efcb77ec0d163354bad4fff1514ea2641f/Images/Screenshot%202.png)
-![Screenshot2](https://github.com/ncsu-csc-510/git-homework2/blob/e80f07efcb77ec0d163354bad4fff1514ea2641f/Images/Screenshot%201.png)
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Main_SS.png" width="400"/>
+
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Remote_SS.png" width="400"/>
+
+#### avenugo3
+
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Screenshot%202.png" width="400"/>
+
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Screenshot%201.png" width="400"/>
