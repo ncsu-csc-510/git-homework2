@@ -1,3 +1,5 @@
 # git-homework2
-![Git Tutorial Progress](screenshots/Main_SS.png)
-![Git Tutorial Progress](screenshots/Remote_SS.png)
+
+<img src="screenshots/Main_SS.png" alt="Git Tutorial Progress SS 1" />
+
+<img src="screenshots/Remote_SS.png" alt="Git Tutorial Progress SS 2"/>
