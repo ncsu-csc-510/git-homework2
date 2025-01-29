@@ -40,18 +40,18 @@ git push origin YOUR_BRANCH
 
 #### akulka24
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot1.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot1.png"/>
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot2.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot2.png"/>
 
 #### akakadi
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Main_SS.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Main_SS.png"/>
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Remote_SS.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Remote_SS.png"/>
 
 #### avenugo3
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Screenshot%202.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Screenshot%202.png"/>
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Screenshot%201.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/Screenshot%201.png"/>
