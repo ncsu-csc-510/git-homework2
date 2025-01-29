@@ -40,9 +40,9 @@ git push origin YOUR_BRANCH
 
 #### akulka24
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot1.png"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/screenshot1.png"/>
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/akulka24/img/screenshot2.png"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/screenshot2.png"/>
 
 #### akakadi
 
