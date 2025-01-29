@@ -12,7 +12,7 @@ This repository and its contents is our team's submission for Homework 2.
 
 ### Project Screenshot
 
-<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/ProjectSS.png" width="400"/>
+<img src="https://github.com/ncsu-csc-510/git-homework2/blob/main/img/ProjectSS.png"/>
 
 
 ### Code Example 
